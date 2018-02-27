@@ -10,7 +10,7 @@ public class strings {
    public static String formSignInTitle="Sign In";
    public static String formManagmentTitle="Management";
    public static String usernamedb = "root";
-   public static String passworddb = "Benidennis9";
+   public static String passworddb = "";
    public static String db = "jdbc:mysql://localhost/javadb";
    public static String dbDriver ="com.mysql.jdbc.Driver";
    public static String db_column1 = "id";
